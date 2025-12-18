@@ -150,7 +150,7 @@ Pastikan server sudah berjalan: http://localhost:3000
 - Method: **DELETE**
 - URL: http://localhost:3000/products/2  (angka 2 merupakan id product yang akan dihapus)
 - Pilih Klik Send, Jika berhasil, maka Product akan terhapus dari database.
-![POST Category](Screenshot/delete-product.png.png)
+![POST Category](Screenshot/delete-product.png)
 
 
 
