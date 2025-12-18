@@ -84,14 +84,14 @@ Pastikan server sudah berjalan: http://localhost:3000
 } 
 ```
 - Pilih Klik Send, Jika berhasil, akan muncul response data category yang ditambahkan.
-![POST Category](./screenshot/post-category.png)
+![POST Category](Screenshot/post-category.png)
 
 ### Get All Categories (Lihat Semua Category)
 - Method: **GET**
 - URL: http://localhost:3000/categories
 
 - Pilih Klik Send, Jika berhasil, Akan menampilkan seluruh data category dalam bentuk array JSON.
-![POST Category](./screenshot/get-category.png)
+![POST Category](Screenshot/get-category.png)
 
 ### Update Category
 - Method: **PUT**
@@ -101,13 +101,13 @@ Pastikan server sudah berjalan: http://localhost:3000
 - Pilih **raw**
 - Pilih format **JSON**
 - Pilih Klik Send, Jika berhasil, akan muncul pesan Kategori berhasil diupdate.
-![POST Category](./screenshot/put-category.png)
+![POST Category](Screenshot/put-category.png)
 
 ### Delete Category
 - Method: **DELETE**
 - URL: http://localhost:3000/categories/2  (angka 2 merupakan id kategori yang akan dihapus)
 - Pilih Klik Send, Jika berhasil, maka category akan terhapus dari database.
-![POST Category](./screenshot/delete-category.png)
+![POST Category](Screenshot/delete-category.png)
 
 ##  PRODUCT API
 
@@ -127,14 +127,14 @@ Pastikan server sudah berjalan: http://localhost:3000
 }
 ```
 - Pilih Klik Send, Jika berhasil, akan muncul response data product yang ditambahkan.
-![POST Category](./screenshot/post-product.png)
+![POST Category](Screenshot/post-product.png)
 
 ### Get All Product (Lihat Semua Product)
 - Method: **GET**
 - URL: http://localhost:3000/products
 
 - Pilih Klik Send, Jika berhasil, Akan menampilkan seluruh data product dalam bentuk array JSON.
-![POST Category](./screenshot/get-product.png)
+![POST Category](Screenshot/get-product.png)
 
 ### Update Category
 - Method: **PUT**
@@ -144,13 +144,13 @@ Pastikan server sudah berjalan: http://localhost:3000
 - Pilih **raw**
 - Pilih format **JSON**
 - Pilih Klik Send, Jika berhasil, akan muncul pesan product berhasil diupdate.
-![POST Category](./screenshot/put-product.png)
+![POST Category](Screenshot/put-product.png)
 
 ### Delete Category
 - Method: **DELETE**
 - URL: http://localhost:3000/products/2  (angka 2 merupakan id product yang akan dihapus)
 - Pilih Klik Send, Jika berhasil, maka Product akan terhapus dari database.
-![POST Category](./screenshot/delete-product.png.png)
+![POST Category](Screenshot/delete-product.png.png)
 
 
 
